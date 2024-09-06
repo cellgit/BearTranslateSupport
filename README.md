@@ -1,0 +1,2 @@
+# BearTranslateSupport
+BearTranslateSupport
